@@ -6,7 +6,7 @@ Stahování fotek z Rajčete
 ## Nastavení
 
 ```php
-// Adresa alba na Rahčeti
+// Adresa alba na Rajčeti
 $albumUrl = "";
 
 // Pokud je album zaheslované:
